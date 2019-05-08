@@ -1,0 +1,13 @@
+this = line + should + be + valid ;
+this = line should + break ;
+5 ;
+Does = 1this + work ;
+What = about + thi?s ;
+this + should - work * too
+
+
+
+
+The = id - recognition + shouldnt * be % case - sensitive ;
+tHe = iD - REcOgNItIon + ShOUlDnt * bE % cASe - SeNSiTiVE ;
+
